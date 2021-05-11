@@ -1,0 +1,19 @@
+main > * {
+    text-align: center;
+    margin: auto;
+}
+
+form {
+    margin-bottom: 25px;
+}
+.container {
+    display: grid;
+    width: 760px;
+    height: 760px;
+    border: 1px dotted black;
+    border-collapse: collapse;
+}
+
+.container > * {
+    border: 1px dotted black;
+}
